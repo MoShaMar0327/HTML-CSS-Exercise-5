@@ -54,7 +54,7 @@ img{
     width: 750px
 }
 
-.blog-post {
+.blog_post {
     max-width: 800px;
     margin: 0 auto;
     margin-bottom: 20px;   /* 20px between posts */
@@ -62,7 +62,7 @@ img{
     color: #333;
 }
 
-.post-date {
+.post_date {
     color: #7f8c8d;
     font-size: 14px;
     font-style: italic;
